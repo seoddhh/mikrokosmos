@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Mikrokosmos (소우주)
+
+인간의 꿈과 소원을 별로 만들고 흔적으로 남기는 우주형 자기성장 플랫폼입니다.
 
 ## Getting Started
 
