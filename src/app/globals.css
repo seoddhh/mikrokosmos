@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-space-bg: #030308;
+  --color-star-dream: hsl(45, 95%, 65%);
+  --color-star-goal: hsl(40, 80%, 80%);
+  --color-star-wish: hsl(220, 85%, 60%);
+  --color-star-hope: hsl(280, 70%, 65%);
+  
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+}
+
+:root {
+  color-scheme: dark;
+}
+
+body {
+  background-color: var(--color-space-bg);
+  color: #ededed;
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Space interface shouldn't have scrollbars */
+}
